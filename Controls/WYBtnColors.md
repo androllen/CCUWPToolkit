@@ -27,6 +27,9 @@ Currently this control is available for UWP for desktop only. I do not plan to a
 	
 You may take a look at the sample project which is included in the repository.
 
+# Preview
+![](http://images2015.cnblogs.com/blog/443660/201703/443660-20170321192408393-1775305892.gif)
+
 # Contribute
 Feel free to contribute to this project: add issues or create pull request.
 

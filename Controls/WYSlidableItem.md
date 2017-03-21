@@ -59,7 +59,6 @@ eg:
                                     RightPadding="30"
                                     RightForeground="White">
                     <Image Source="{Binding}" Stretch="Fill" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
-                    <!--<ctl:WYCacheView HttpUrl="{Binding}" Remove($dataContext) Background="Gray" StretchSource="UniformToFill"/>-->
                 </ctl:WYSlidableItem>
             </Border>
         </DataTemplate>        
@@ -79,5 +78,5 @@ eg:
         RightPadding="30"
         RightForeground="White"
         above all property you can customized 
-##      Get the control - I recommend using NuGet: https://www.nuget.org/packages/CCUWPToolkit/
+###  Get the control - I recommend using NuGet: https://www.nuget.org/packages/CCUWPToolkit/
 
